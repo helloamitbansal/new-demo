@@ -1,3 +1,4 @@
 # new-demo
-Starting a new account on Github
+<br> Starting a new account on Github.
+<br>
 Author - Amit Bansal
